@@ -1,5 +1,5 @@
 # 🔐 Noob Ransomware Simulation (Educational Only)
-
+***USE IN A VERY SAFE AND ISOLATED ENVIRONMENT SUCH AS VIRTUALBOX,VMWARE ANY LOSS THE AUTHOR IS NOT RESPONSIBLE***
 This is a **simple ransomware simulation** built in Python using the `cryptography` library (Fernet).  
 ⚠️ **Disclaimer:** This project is for **educational purposes only**. Do not use it for malicious activities. I take no responsibility for any misuse.  
 
@@ -32,4 +32,4 @@ Install the library:
 ```bash
 pip install cryptography
 
-***USE IN A VERY SAFE AND ISOLATED ENVIRONMENT SUCH AS VIRTUALBOX,VMWARE ANY LOSS THE AUTHOR IS NOT RESPONSIBLE***
+
