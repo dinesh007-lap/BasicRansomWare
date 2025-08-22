@@ -31,3 +31,5 @@ This is a **simple ransomware simulation** built in Python using the `cryptograp
 Install the library:  
 ```bash
 pip install cryptography
+
+***USE IN A VERY SAFE AND ISOLATED ENVIRONMENT SUCH AS VIRTUALBOX,VMWARE ANY LOSS THE AUTHOR IS NOT RESPONSIBLE***
